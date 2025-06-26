@@ -1,2 +1,7 @@
+<<<<<<< new_branch
 venv/
 *.pkl
+=======
+*.pkl
+venv/
+>>>>>>> main
